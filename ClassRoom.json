@@ -1,0 +1,34 @@
+{
+	"class-name" : "unity for developers",
+	"teacher" : "Carlos Revelo",
+	"room-number": 203
+	"start-date" : "01/08/2017"
+	"students" : 
+	[
+		{
+	      		"name": "CarlosR",
+	      		"age": 36,
+			"grades":[
+				{
+					"name": "Math",
+					"grade": 5
+				},{
+					"name": "Computer Science",
+					"grade": 5
+				}
+			]
+    		},{
+	      		"name": "Catalina",
+	      		"age": 23,
+			"grades":[
+				{
+					"name": "Math",
+					"grade": 4
+				},{
+					"name": "Computer Science",
+					"grade": 4.5
+				}
+			]
+    		}
+	]
+}
